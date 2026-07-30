@@ -1,0 +1,10 @@
+1. what do u know about function
+a function is a block of code that is use to da a specific task and can be reused 
+2. what is layout?
+Arrangng element on a web page
+3. what do u know about flex layout?
+flex alows us to arrange, reorder, and resize boxes automatically in a single row or column.
+4. what is the need for grid layout?
+grid layout alows us to arrange boxes into complex, two-dimensional layouts using rows and column.
+5. what is the use of github??
+github is a website that allows user to share their code and allows the user to use the code with each other without overwriting and it is a cloud platform and helo us to track history
